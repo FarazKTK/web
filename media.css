@@ -1,0 +1,106 @@
+
+/* 360 Open */
+@media (width: 360px){
+    .hero h1{
+        font-size: 17px;
+    }
+    .hero h3{
+        font-size: 12px;
+    }
+    .hero h4 .button{
+        font-size: 13px;
+    }
+}
+/* 360 Close */
+
+
+/* 375 Open */
+@media (width: 375px){
+    .hero h1{
+        font-size: 17px;
+    }
+    .hero h3{
+        font-size: 12px;
+    }
+    .hero h4 .button{
+        font-size: 13px;
+    }
+}
+/* 375 Close */
+
+
+/* 390 Open */
+@media (width: 390px){
+    .hero h1{
+        font-size: 17px;
+    }
+    .hero h3{
+        font-size: 12px;
+    }
+    .hero h4 .button{
+        font-size: 13px;
+    }
+}
+/* 390 Close */
+
+
+/* 414 Open */
+@media (width: 414px){
+    .hero h1{
+        font-size: 17px;
+    }
+    .hero h3{
+        font-size: 12px;
+    }
+    .hero h4 .button{
+        font-size: 13px;
+    }
+}
+/* 414 Close */
+
+
+/* 768 Open */
+@media (width: 768px){
+    .hero h1{
+        font-size: 17px;
+    }
+    .hero h3{
+        font-size: 12px;
+    }
+    .hero h4 .button{
+        font-size: 13px;
+    }
+}
+/* 768 Close */
+
+
+/* 430 Open */
+@media (width: 430px){
+    .hero h1{
+        font-size: 17px;
+    }
+    .hero h3{
+        font-size: 12px;
+    }
+    .hero h4 .button{
+        font-size: 13px;
+    }
+}
+/* 430 Close */
+
+
+@media screen and (max-width: 767px ){
+    .middle{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .team_4{
+        position: static;
+        width: 100%;
+    }
+    #footer{
+        text-align: center;
+    }
+}
